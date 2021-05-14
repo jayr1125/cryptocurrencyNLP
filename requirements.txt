@@ -1,0 +1,4 @@
+pandas==1.0.5
+twython==3.8.2
+textblob==0.15.3
+requests==2.24.0
